@@ -40,4 +40,4 @@ const eslintConfig = tseslint.config(
   },
 )
 
-export default eslintConfig
+export default eslintConfig;

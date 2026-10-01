@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "remix vite:dev",
-    "build": "remix vite:build"
+    "dev": "node init && remix vite:dev",
+    "build": "node init && remix vite:build"
   },
   "dependencies": {
     "@remix-run/node": "^2.0.0",
